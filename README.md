@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @riyyas
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning information technology
